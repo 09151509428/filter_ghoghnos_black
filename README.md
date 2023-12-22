@@ -9,6 +9,10 @@ filter_ghoghnos_black
 
 > git clone https://github.com/09151509428/filter_ghoghnos_black
 
+> ls
+
 > cd filter_ghoghnos_black
+
+> ls
 
 > python filter_Ghoghnos_Black.py

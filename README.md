@@ -11,4 +11,4 @@ filter_ghoghnos_black
 
 > cd filter_ghoghnos_black
 
-> python filter_ghoghnos_black.py
+> python filter_Ghoghnos_Black.py

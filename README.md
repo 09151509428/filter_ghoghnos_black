@@ -15,4 +15,4 @@ filter_ghoghnos_black
 
 > ls
 
-> python filter_GhoghnosBlack.py
+> python filtering_GhoghnosBlack.py
